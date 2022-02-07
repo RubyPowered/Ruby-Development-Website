@@ -1,0 +1,66 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header {
+    color: #20a17b;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    font-size: 28;
+    font-weight: bold;
+    font-family: noto-sans;
+    border-bottom: #20a17b 4px solid;
+}
+
+#bio {
+    font-size: 24;
+    font-weight: bold;
+    font-family: noto-sans;
+    position: absolute;
+    left: 25px;
+    top: 105px;
+    color: #727272;
+}
+
+#links {
+    font-size: 14;
+    font-family: noto-sans;
+    position: absolute;
+    top: 150px;
+    left: 25px;
+    color: #727272;
+    font-weight: 400;
+}
+
+#emulators {
+    text-align: center;
+    font-family: noto-sans;
+    position: absolute;
+    top: 340px;
+    left: 20px;
+    padding: 0px;
+    color: #20a17b;
+}
+
+#images {
+    position: absolute;
+    left: 25px;
+    top: 200px;
+}
+
+a {
+    color: #20a17b;
+}
+
+a:hover {
+    color: #20a17b;
+}
+
+a:link {
+    color: #20a17b;
+}
+
+a:visited {
+    color: #20a17b;
+}

@@ -1,0 +1,85 @@
+#main {
+    position: absolute;
+    width: 900px;
+    height: 2010px;
+    top: 121px;
+    left: 154px;
+}
+
+#header {
+    border-left: solid 4px #4DA6FF;
+    border-bottom: solid 4px #4DA6FF;
+    border-top: solid 4px #4DA6FF;
+    border-right: solid 4px #4DA6FF;
+    background-color: gainsboro;
+    text-align: center;
+    color: red;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1350px;
+    height: 80px;
+}
+
+#navbar {
+    border-bottom: #4DA6FF solid 4px;
+    border-left: #4DA6FF solid 4px;
+    list-style-type: none;
+    width: 1205px;
+    height: 31px;
+    position: absolute;
+    top: 86px;
+    left: 150px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a:hover {
+    background-color: #4DA6FF;
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+#sidebar {
+    border-right: 4px solid #4DA6FF;
+    border-bottom: 4px solid #4DA6FF;
+    position: absolute;
+    top: 88px;
+    left: 0px;
+    width: 150px;
+    height: 2032px;
+    background-color: gainsboro;
+}
+
+#footer {
+    border-right: 4px solid #4DA6FF;
+    border-bottom: 4px solid #4DA6FF;
+    border-top: 4px solid #4DA6FF;
+    position: absolute;
+    left: 150px;
+    top: 2016px;
+    width: 1189px;
+    height: 100px;
+}
+
+#ads {
+    border-left: #4DA6FF solid 4px;
+    border-right: #4DA6FF solid 4px;
+    position: absolute;
+    left: 1055px;
+    top: 120px;
+    width: 296px;
+    height: 1900px;
+    background-color: gainsboro;
+}
